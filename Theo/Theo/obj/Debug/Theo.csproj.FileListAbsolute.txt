@@ -1,0 +1,7 @@
+C:\Users\PC 5\source\repos\Theo\Theo\bin\Debug\Theo.exe.config
+C:\Users\PC 5\source\repos\Theo\Theo\bin\Debug\Theo.exe
+C:\Users\PC 5\source\repos\Theo\Theo\bin\Debug\Theo.pdb
+C:\Users\PC 5\source\repos\Theo\Theo\obj\Debug\Theo.csproj.AssemblyReference.cache
+C:\Users\PC 5\source\repos\Theo\Theo\obj\Debug\Theo.csproj.CoreCompileInputs.cache
+C:\Users\PC 5\source\repos\Theo\Theo\obj\Debug\Theo.exe
+C:\Users\PC 5\source\repos\Theo\Theo\obj\Debug\Theo.pdb
