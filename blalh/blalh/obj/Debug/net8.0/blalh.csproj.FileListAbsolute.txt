@@ -1,0 +1,14 @@
+C:\Users\PC 5\source\repos\blalh\blalh\bin\Debug\net8.0\blalh.exe
+C:\Users\PC 5\source\repos\blalh\blalh\bin\Debug\net8.0\blalh.deps.json
+C:\Users\PC 5\source\repos\blalh\blalh\bin\Debug\net8.0\blalh.runtimeconfig.json
+C:\Users\PC 5\source\repos\blalh\blalh\bin\Debug\net8.0\blalh.dll
+C:\Users\PC 5\source\repos\blalh\blalh\bin\Debug\net8.0\blalh.pdb
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\blalh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\blalh.AssemblyInfoInputs.cache
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\blalh.AssemblyInfo.cs
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\blalh.csproj.CoreCompileInputs.cache
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\blalh.dll
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\refint\blalh.dll
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\blalh.pdb
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\blalh.genruntimeconfig.cache
+C:\Users\PC 5\source\repos\blalh\blalh\obj\Debug\net8.0\ref\blalh.dll
